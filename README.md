@@ -50,6 +50,16 @@ Features
 
 ||
 
+Usage
+
+* Teachers can create and assign tasks, monitor progress, and generate reports.
+
+* Students can view assignments, submit tasks, and track their own performance.
+
+* Admins can manage courses, users, and monitor overall academic workflows.
+
+||
+
  Why EDUSYNC?
 
 By combining task management, performance monitoring, and communication tools into a single platform, EDUSYNC creates a more effective academic environment that benefits students, teachers, and institutions alike. It’s not just about digitization—it’s about making learning and teaching smarter, faster, and more transparent.
