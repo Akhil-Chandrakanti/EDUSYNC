@@ -34,19 +34,19 @@ Efficiency & Accuracy – Saves time, reduces manual errors, and supports a smoo
 
 Features
 
-> Course management (add, update, track courses)
+* Course management (add, update, track courses)
 
-> Teacher dashboards with performance insights
+* Teacher dashboards with performance insights
 
-> Student progress tracking
+* Student progress tracking
 
-> Assignment submission & grading
+* Assignment submission & grading
 
-> Analytics and reporting for transparent evaluation
+* Analytics and reporting for transparent evaluation
 
-> Notifications for deadlines, tasks, and updates
+* Notifications for deadlines, tasks, and updates
 
-> Cloud-based access – use anytime, anywhere
+* Cloud-based access – use anytime, anywhere
 
 ||
 
