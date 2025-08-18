@@ -1,11 +1,6 @@
-# EDUSYNC
-||
-
-A centralized platform that simplifies academic tasks, improves teacher-student interaction, and enables transparent performance tracking—saving time, reducing errors, and enhancing overall learning and teaching efficiency.
 
 ||
 
- 
 | Roll No.   | Name             |
 |------------|------------------|
 | 2410030407 | Lakshminath      |
@@ -17,6 +12,8 @@ A centralized platform that simplifies academic tasks, improves teacher-student 
 ||
 
 EDUSYNC
+
+A centralized platform that simplifies academic tasks, improves teacher-student interaction, and enables transparent performance tracking—saving time, reducing errors, and enhancing overall learning and teaching efficiency.
 
 EDUSYNC is a centralized academic platform designed to streamline everyday educational activities for both teachers and students. It simplifies academic tasks, fosters stronger teacher–student interaction, and ensures transparent performance tracking.
 
