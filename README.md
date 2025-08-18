@@ -2,7 +2,7 @@
 
 A centralized platform that simplifies academic tasks, improves teacher-student interaction, and enables transparent performance tracking—saving time, reducing errors, and enhancing overall learning and teaching efficiency.
 
-||
+---------------------------------------------------------------------------------------------------------
 
 | Roll No.   | Name             |
 |------------|------------------|
@@ -12,13 +12,13 @@ A centralized platform that simplifies academic tasks, improves teacher-student 
 | 2410030333 | Pranav Venugopal |
 | 2410030011 | Ayush Kumar      |
 
-||
+---------------------------------------------------------------------------------------------------------
 
 EDUSYNC
 
 EDUSYNC is a centralized academic platform designed to streamline everyday educational activities for both teachers and students. It simplifies academic tasks, fosters stronger teacher–student interaction, and ensures transparent performance tracking.
 
-||
+---------------------------------------------------------------------------------------------------------
 
  Key Highlights
 
@@ -30,7 +30,7 @@ Transparent Performance Tracking – Provides clear insights into student progre
 
 Efficiency & Accuracy – Saves time, reduces manual errors, and supports a smooth learning/teaching process.
 
-||
+---------------------------------------------------------------------------------------------------------
 
 Features
 
@@ -48,7 +48,7 @@ Features
 
 * Cloud-based access – use anytime, anywhere
 
-||
+---------------------------------------------------------------------------------------------------------
 
 Usage
 
@@ -58,7 +58,7 @@ Usage
 
 * Admins can manage courses, users, and monitor overall academic workflows.
 
-||
+---------------------------------------------------------------------------------------------------------
 
  Why EDUSYNC?
 
