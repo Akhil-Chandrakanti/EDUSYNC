@@ -1,5 +1,7 @@
 # EDUSYNC
 
+---------------------------------------------------------------------------------------------------------
+
 A centralized platform that simplifies academic tasks, improves teacher-student interaction, and enables transparent performance tracking—saving time, reducing errors, and enhancing overall learning and teaching efficiency.
 
 ---------------------------------------------------------------------------------------------------------
@@ -63,3 +65,5 @@ Usage
  Why EDUSYNC?
 
 By combining task management, performance monitoring, and communication tools into a single platform, EDUSYNC creates a more effective academic environment that benefits students, teachers, and institutions alike. It’s not just about digitization—it’s about making learning and teaching smarter, faster, and more transparent.
+
+---------------------------------------------------------------------------------------------------------
