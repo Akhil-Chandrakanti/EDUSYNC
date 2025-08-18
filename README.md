@@ -5,14 +5,14 @@ A centralized platform that simplifies academic tasks, improves teacher-student 
 
 ||
 
-
-| Roll No.   | Name             |
-|------------|------------------|
-| 2410030407 | Lakshminath      |
-| 2410039535 | Akhil            |
-| 2410039536 | Karthik          |
-| 2410030333 | Pranav Venugopal |
-| 2410030011 | Ayush Kumar      |
+ 
+                                        | Roll No.   | Name             |
+                                        |------------|------------------|
+                                        | 2410030407 | Lakshminath      |
+                                        | 2410039535 | Akhil            |
+                                        | 2410039536 | Karthik          |
+                                        | 2410030333 | Pranav Venugopal |
+                                        | 2410030011 | Ayush Kumar      |
 
 ||
 
