@@ -15,7 +15,7 @@ A centralized platform that simplifies academic tasks, improves teacher-student 
 | 2410030011 | Ayush Kumar      |
 
 ---------------------------------------------------------------------------------------------------------
--------
+
 EDUSYNC
 -------
 
@@ -24,6 +24,7 @@ EDUSYNC is a centralized academic platform designed to streamline everyday educa
 ---------------------------------------------------------------------------------------------------------
 
  Key Highlights
+--------------
 
 Centralized Platform – One place to manage academic tasks, assignments, and resources.
 
@@ -36,6 +37,7 @@ Efficiency & Accuracy – Saves time, reduces manual errors, and supports a smoo
 ---------------------------------------------------------------------------------------------------------
 
 Features
+--------
 
 * Course management (add, update, track courses)
 
@@ -54,6 +56,7 @@ Features
 ---------------------------------------------------------------------------------------------------------
 
 Usage
+-----
 
 * Teachers can create and assign tasks, monitor progress, and generate reports.
 
@@ -64,6 +67,7 @@ Usage
 ---------------------------------------------------------------------------------------------------------
 
  Why EDUSYNC?
+-------------
 
 By combining task management, performance monitoring, and communication tools into a single platform, EDUSYNC creates a more effective academic environment that benefits students, teachers, and institutions alike. It’s not just about digitization—it’s about making learning and teaching smarter, faster, and more transparent.
 
