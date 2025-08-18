@@ -15,8 +15,9 @@ A centralized platform that simplifies academic tasks, improves teacher-student 
 | 2410030011 | Ayush Kumar      |
 
 ---------------------------------------------------------------------------------------------------------
-
+-------
 EDUSYNC
+-------
 
 EDUSYNC is a centralized academic platform designed to streamline everyday educational activities for both teachers and students. It simplifies academic tasks, fosters stronger teacher–student interaction, and ensures transparent performance tracking.
 
