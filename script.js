@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 document.addEventListener('DOMContentLoaded', () => {
 
     const appContainer = document.getElementById('app-container');
@@ -301,3 +302,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         }
     });
 });
+=======
+
+>>>>>>> 7eaf750348a75ab594288285df97ea9914020b64
